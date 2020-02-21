@@ -1,0 +1,38 @@
+.btn-discover {
+	background-color: ##3358CC;
+	padding: 10px 30px;
+	box-shadow: 4px 4px 10px rgba (0,0,0)
+	border-radius: 4px;
+	text-decoration: none;
+	color:black;
+	border: black;font-family: Chalkduster, fantasy;
+ }
+ body {
+	background-color:##3157D0;
+	border: black;font-family: Chalkduster, fantasy;
+	justify-content: center;
+ }
+div {
+background-color: lightblue; 
+width: 1300px;
+border-radius: 10px;
+padding: 15px 30px;
+margin-top: 25px;
+padding-right: 15px
+padding-left:15px;
+border-color: black;
+box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+justify-content: center;
+border: black;font-family: Chalkduster, fantasy;
+
+}
+
+typeform-widget {
+	border-width: : 0px;
+	margin: 0px;
+
+}
+
+
+/* box-shadow: 7 px 7pk 10px rgba (50,50,93,0,1); margin: 0 auto;
+*/}
